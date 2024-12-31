@@ -1,7 +1,7 @@
 # SkybloskMods  
 An aggregation of Hypixel Skyblock Mods  
 
-This is a curated repository with popular mods designed to enhance your experience in Hypixel Skyblock. This project aggregates mods from multiple sources, making it easy to access and use the latest versions of your favorite tools. Whether you're looking for quality-of-life improvements or performance-focused enhancements, you'll find the best Skyblock mods here. For a more in depth mod list [CLICK HERE](https://sbmw.ca/mod-lists/general-mod-list/#replaymod).  
+This is a curated repository with popular mods designed to enhance your experience in Hypixel Skyblock. This project aggregates mods from multiple sources, making it easy to access and use the latest versions of your favorite tools. Whether you're looking for quality-of-life improvements or performance-focused enhancements, you'll find the best Skyblock mods here. For a more in depth mod list [CLICK HERE](https://sbmw.ca/mod-lists/skyblock-mod-list/).  
 
 **Although there is a small description of each mod included, it does not list all of the features in the mod, please visit the author's github for a more detailed feature list.**  
 
@@ -22,13 +22,13 @@ For installation and more details, visit [SkyClient’s official website](https:
 ## FPS Mods  
 Designed to improve game performance with minimal system impact.  
 
-1. **[Patcher](https://github.com/Sk1erLLC/Patcher)**  
+1. **[Patcher](https://sk1er.club/mods/patcher)**  
    Provides a lot of in game enhancements and bug fixes that 1.8.9 minecraft otherwise does not have.  
 
 2. **[OptiFine](https://optifine.net/downloads)**  
    A staple for FPS improvement, providing smoother graphics and customizable performance settings along.  
 
-3. **[CrashPatch](https://optifine.net/downloads)**  
+3. **[CrashPatch](https://github.com/Polyfrost/CrashPatch)**  
    Prevents crashs from closing the game!  
    
 ---
