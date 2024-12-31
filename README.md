@@ -64,7 +64,7 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
 
 ## ChatTriggers and Modules  
 
-[ChatTriggers](https://github.com/ChatTriggers/ChatTriggers) is a scripting platform that lets you run javascript mods in Minecraft chat. Modules built for ChatTriggers extend its functionality for specific Skyblock features where normal mods cannot.  
+[ChatTriggers](https://github.com/ChatTriggers/ChatTriggers) is a scripting platform that lets you run javascript mods in Minecraft chat. This has a high performance impact of your system, but modules built for ChatTriggers extend functionality for specific Skyblock features where normal mods cannot.  
 
 ### Installation and Usage  
 1. Download and install ChatTriggers using a compatible mod manager.  
