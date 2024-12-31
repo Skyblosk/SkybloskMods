@@ -60,8 +60,11 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
 7. **[BazaarNotifier](https://github.com/symt/BazaarNotifier)**  
    Alerts players about profitable Bazaar trades.  
 
-8. **[SBE (SkyBlockExtras)](https://sbewebsite.appspot.com/)** *(Paid)*  
-   Offers advanced QOL features, including Dungeon solvers and item ability trackers.  **(No Download Offered)**
+9. **[Odin](https://github.com/odtheking/Odin)**  
+   Provides many useful features for Dungeons including the ability to make custom dungeon routes.  
+
+11. **[SBE (SkyBlockExtras)](https://sbewebsite.appspot.com/)** *(Paid)*  
+   Offers advanced QOL features, including Dungeon solvers and item ability trackers.  **(No Download Offered)**  
 
 ---
 
@@ -111,5 +114,5 @@ This streamlined process ensures reliability and saves users the time and effort
 ---
 
 Enhance your Hypixel Skyblock experience with **SkybloskMods**—your one-stop solution for mods and tools. Contributions and feedback are welcome!  
-DM me at **ilyapple** for feedback (or if you want your mod added to this list!)  
+DM me at **ilyapple** on discord for feedback (or if you want your mod added to this list!)  
 
