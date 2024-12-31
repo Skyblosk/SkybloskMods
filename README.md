@@ -1,5 +1,5 @@
 # SkybloskMods  
-An aggregation of Hypixel Skyblock Mods  
+An Aggregation of Hypixel Skyblock Mods  
 
 This is a curated repository with popular mods designed to enhance your experience in Hypixel Skyblock. This project aggregates mods from multiple sources, making it easy to access and use the latest versions of your favorite tools. Whether you're looking for quality-of-life improvements or performance-focused enhancements, you'll find the best Skyblock mods here. For a more in depth mod list [CLICK HERE](https://sbmw.ca/mod-lists/skyblock-mod-list/).  
 
