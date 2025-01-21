@@ -98,7 +98,10 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
    Used for Dungeon chat features, including melody announcements.  
 
 7. **[Bloom](https://github.com/UnclaimedBloom6/BloomModule)**  
-   Provides Dungeon solvers for faster and more efficient runs.  
+   Provides Dungeon solvers for faster and more efficient runs.
+
+8. **[OrangeAddons](https://github.com/orange0513/orangeaddons)**
+   Provides useful commands to check your teammates dungeon stats and more.
 
 ---
 
