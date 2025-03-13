@@ -64,7 +64,10 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
    Provides many useful features for Dungeons including the ability to make custom dungeon routes.  
 
 11. **[SBE (SkyBlockExtras)](https://sbewebsite.appspot.com/)** *(Paid)*  
-   Offers advanced QOL features, including Dungeon solvers and item ability trackers.  **(No Download Offered)**  
+   Offers advanced QOL features, including Dungeon solvers and item ability trackers.  **(No Download Offered)**
+
+12. **[RiccioFishingUtils](https://github.com/Ricciow/RiccioFishingUtils/releases/tag/v0.3.3)**  
+   Provides useful fishing utils, use in addition to FeeshNotifier for best experience!
 
 ---
 
@@ -105,9 +108,6 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
 
 9. **[FeeshNotifier](discord.gg/shrimple)**  
    Provides useful fishing utils, very useful for jawbus fishing.
-
-10. **[RiccioFishingUtils](https://github.com/Ricciow/RiccioFishingUtils/releases/tag/v0.3.3)**  
-   Provides useful fishing utils, use in addition to FeeshNotifier for best experience!
 
 ---
 
