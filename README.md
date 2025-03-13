@@ -106,7 +106,7 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
 9. **[FeeshNotifier](discord.gg/shrimple)**  
    Provides useful fishing utils, very useful for jawbus fishing.
 
-10. **[RiccioFishingUtils](discord.gg/shrimple)**  
+10. **[RiccioFishingUtils](https://github.com/Ricciow/RiccioFishingUtils/releases/tag/v0.3.3)**  
    Provides useful fishing utils, use in addition to FeeshNotifier for best experience!
 
 ---
