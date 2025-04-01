@@ -101,7 +101,7 @@ Quality-of-life mods enhance gameplay but may have a medium or high performance 
    Provides Dungeon solvers for faster and more efficient runs.
 
 8. **[OrangeAddons](https://github.com/orange0513/orangeaddons)**  
-   Provides useful commands to check your teammates dungeon stats and more.
+   Provides dungeon routes and a way to check the cheapest way to upgrade attributes. (and more!)
 
 9. **[FeeshNotifier](discord.gg/shrimple)**  
    Provides useful fishing utils, very useful for jawbus fishing.
